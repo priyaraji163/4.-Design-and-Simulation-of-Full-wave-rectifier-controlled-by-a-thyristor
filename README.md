@@ -66,5 +66,14 @@ After analysing the simulated output,
 (iv)Write your inference.
 
 ## Simulation
+<img width="1920" height="740" alt="PEEXP 4 CD" src="https://github.com/user-attachments/assets/4a6e0fe6-9bb6-495d-a897-5fca55edafc9" />
+
 ## Output
+
+<img width="1920" height="844" alt="PEEXP4 OP 1" src="https://github.com/user-attachments/assets/57eef5de-d4c5-4fc3-bd1e-b4bc70d208f4" />
+<img width="1920" height="851" alt="PEEXP 4 OP 2" src="https://github.com/user-attachments/assets/1378aeda-ea77-4276-b8f9-542904d989ae" />
+<img width="1920" height="862" alt="PEEXP 4 OP 3" src="https://github.com/user-attachments/assets/afbdb97a-ff4e-4daf-b1d3-d93ee2eb2bbc" />
+
 ## Result
+Full wave rectifier controlled by thyristor is designed and simulated in matlab successfully.
+
